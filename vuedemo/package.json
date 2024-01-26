@@ -1,0 +1,23 @@
+{
+  "name": "vuedemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@blocknote/core": "^0.11.1",
+    "@blocknote/react": "^0.11.1",
+    "novel": "^0.1.22",
+    "veaury": "^2.3.12"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.3",
+    "vite": "^5.0.12"
+  }
+}
