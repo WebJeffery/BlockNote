@@ -27,6 +27,10 @@ export default defineConfig((conf) => ({
               __dirname,
               "../../packages/react/src/"
             ),
+            "@tiptap/react": path.resolve(
+              __dirname,
+              "../../packages/react/tiptap-react"
+            ),
           },
   },
 }));

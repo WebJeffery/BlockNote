@@ -5,6 +5,7 @@ import "@blocknote/react/style.css";
 type WindowWithProseMirror = Window & typeof globalThis & { ProseMirror: any };
 
 export function App() {
+  debugger;
   const editor = useBlockNote({
     domAttributes: {
       editor: {

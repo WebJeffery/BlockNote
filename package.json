@@ -1,11 +1,6 @@
 {
   "name": "root",
   "private": true,
-  "workspaces": [
-    "packages/*",
-    "examples/*",
-    "tests"
-  ],
   "devDependencies": {
     "eslint": "^8.22.0",
     "eslint-plugin-import": "^2.28.0",
